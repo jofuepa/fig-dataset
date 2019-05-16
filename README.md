@@ -9,5 +9,5 @@ If you use this data set in your research, please cite our paper:
 
 Fuentes-Pacheco J, Torres-Olivares J, Roman-Rangel E, Cervantes S, Juarez-Lopez P, Hermosillo-Valadez J, Rendón-Mancha J. Fig Plant Segmentation from Aerial Images Using a Deep Convolutional Encoder-Decoder Network. Remote Sensing. 2019; 11(10):1157
 
-https://www.mdpi.com/2072-4292/11/10/1157
+Paper available here: https://www.mdpi.com/2072-4292/11/10/1157
 
